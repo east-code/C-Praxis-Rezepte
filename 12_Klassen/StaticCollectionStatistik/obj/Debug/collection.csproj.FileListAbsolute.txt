@@ -1,0 +1,9 @@
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Methodensammlung\collection\collection\bin\Debug\collection.exe.config
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Methodensammlung\collection\collection\bin\Debug\collection.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Methodensammlung\collection\collection\bin\Debug\collection.pdb
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Methodensammlung\collection\collection\obj\Debug\collection.csprojResolveAssemblyReference.cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Methodensammlung\collection\collection\obj\Debug\collection.Properties.Resources.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Methodensammlung\collection\collection\obj\Debug\collection.csproj.GenerateResource.Cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Methodensammlung\collection\collection\obj\Debug\collection.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Methodensammlung\collection\collection\obj\Debug\collection.pdb
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Methodensammlung\collection\collection\obj\Debug\collection.FormCollection.resources
