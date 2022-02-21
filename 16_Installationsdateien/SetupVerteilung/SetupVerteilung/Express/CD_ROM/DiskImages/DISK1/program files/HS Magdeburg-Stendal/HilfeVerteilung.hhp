@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=HilfeVerteilung.chm
+Contents file=ContentsVerteilung.hhc
+Default topic=HilfeVerteilung.htm
+Display compile progress=No
+Index file=IndexVerteilung.hhk
+Language=0x407 Deutsch (Deutschland)
+
+
+[FILES]
+HilfeVerteilung.htm
+HilfeStatistik.htm
+HilfeDiagramm.htm
+
+[INFOTYPES]
+

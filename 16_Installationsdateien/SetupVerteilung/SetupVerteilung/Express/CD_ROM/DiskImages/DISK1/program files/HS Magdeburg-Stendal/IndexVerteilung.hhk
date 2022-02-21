@@ -1,0 +1,41 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Dichtefunktion">
+		<param name="Name" value="Dichtefunktion">
+		<param name="Local" value="HilfeStatistik.htm">
+		<param name="URL" value="HilfeStatistik.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Mittelwert">
+		<param name="Name" value="Mittelwert">
+		<param name="Local" value="HilfeStatistik.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Standardabweichung">
+		<param name="Name" value="Standardabweichung">
+		<param name="Local" value="HilfeStatistik.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Diagramm">
+		<param name="Local" value="HilfeDiagramm.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Excel-Import">
+		<param name="Local" value="HilfeVerteilung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Klassenanalyse">
+		<param name="Local" value="HilfeVerteilung.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Normalverteilung">
+		<param name="Local" value="HilfeVerteilung.htm">
+		</OBJECT>
+</UL>
+</BODY></HTML>
