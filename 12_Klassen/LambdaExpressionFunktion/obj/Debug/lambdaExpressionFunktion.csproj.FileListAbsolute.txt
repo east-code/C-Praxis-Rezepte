@@ -1,0 +1,16 @@
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\LambdaExpressionFunktion\bin\Debug\LambdaExpression.exe.config
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\LambdaExpressionFunktion\obj\Debug\LambdaExpression.exe
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\LambdaExpressionFunktion\obj\Debug\LambdaExpression.pdb
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\LambdaExpressionFunktion\bin\Debug\LambdaExpression.exe
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\LambdaExpressionFunktion\bin\Debug\LambdaExpression.pdb
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\LambdaExpressionFunktion\obj\Debug\LambdaExpression.Form_Polygon.resources
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\LambdaExpressionFunktion\obj\Debug\LambdaExpression.Properties.Resources.resources
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\LambdaExpressionFunktion\obj\Debug\lambdaExpressionFunktion.csproj.GenerateResource.Cache
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\LambdaExpressionFunktion\bin\Debug\LambdaExpression.exe.config
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\LambdaExpressionFunktion\obj\Debug\LambdaExpression.exe
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\LambdaExpressionFunktion\obj\Debug\LambdaExpression.pdb
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\LambdaExpressionFunktion\bin\Debug\LambdaExpression.exe
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\LambdaExpressionFunktion\bin\Debug\LambdaExpression.pdb
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\LambdaExpressionFunktion\obj\Debug\LambdaExpression.Form_Polygon.resources
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\LambdaExpressionFunktion\obj\Debug\LambdaExpression.Properties.Resources.resources
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\LambdaExpressionFunktion\obj\Debug\lambdaExpressionFunktion.csproj.GenerateResource.Cache
