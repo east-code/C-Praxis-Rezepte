@@ -1,0 +1,31 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Normalverteilung">
+		<param name="Local" value="HilfeVerteilung.htm">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Verteilung und Klassenanalyse">
+			<param name="Local" value="HilfeVerteilung.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Statistik">
+			<param name="Local" value="HilfeStatistik.htm">
+			<param name="URL" value="HilfeStatistik.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Diagramm">
+			<param name="Local" value="HilfeDiagramm.htm">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>
