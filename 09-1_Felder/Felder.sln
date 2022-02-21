@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerzweigteFelder", "VerzweigteFelder\VerzweigteFelder.csproj", "{6AD697B1-C6D2-4181-8182-E1133CDE68E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrukturFeld", "StrukturFeld\StrukturFeld.csproj", "{7ABFBAC0-28F2-42EE-8B66-CAB35FC3B677}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD697B1-C6D2-4181-8182-E1133CDE68E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD697B1-C6D2-4181-8182-E1133CDE68E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD697B1-C6D2-4181-8182-E1133CDE68E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD697B1-C6D2-4181-8182-E1133CDE68E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ABFBAC0-28F2-42EE-8B66-CAB35FC3B677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ABFBAC0-28F2-42EE-8B66-CAB35FC3B677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ABFBAC0-28F2-42EE-8B66-CAB35FC3B677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ABFBAC0-28F2-42EE-8B66-CAB35FC3B677}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0882CF72-F05E-4396-B605-D206B7D69B03}
+	EndGlobalSection
+EndGlobal
