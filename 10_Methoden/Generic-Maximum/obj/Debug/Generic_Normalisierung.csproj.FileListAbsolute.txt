@@ -1,0 +1,10 @@
+H:\#02_booksOwn\01-01_Csharp2017_Grundlagen_Praxis&Rezepte_De (20210321)\CSharp_Projekte\10_Methoden\Generic-Maximum\bin\Debug\Generic-Maximum.exe.config
+H:\#02_booksOwn\01-01_Csharp2017_Grundlagen_Praxis&Rezepte_De (20210321)\CSharp_Projekte\10_Methoden\Generic-Maximum\bin\Debug\Generic-Maximum.exe
+H:\#02_booksOwn\01-01_Csharp2017_Grundlagen_Praxis&Rezepte_De (20210321)\CSharp_Projekte\10_Methoden\Generic-Maximum\bin\Debug\Generic-Maximum.pdb
+H:\#02_booksOwn\01-01_Csharp2017_Grundlagen_Praxis&Rezepte_De (20210321)\CSharp_Projekte\10_Methoden\Generic-Maximum\obj\Debug\Generic_Normalisierung.csproj.AssemblyReference.cache
+H:\#02_booksOwn\01-01_Csharp2017_Grundlagen_Praxis&Rezepte_De (20210321)\CSharp_Projekte\10_Methoden\Generic-Maximum\obj\Debug\Generic_Maximum.Properties.Resources.resources
+H:\#02_booksOwn\01-01_Csharp2017_Grundlagen_Praxis&Rezepte_De (20210321)\CSharp_Projekte\10_Methoden\Generic-Maximum\obj\Debug\Generic_Normalisierung.csproj.GenerateResource.cache
+H:\#02_booksOwn\01-01_Csharp2017_Grundlagen_Praxis&Rezepte_De (20210321)\CSharp_Projekte\10_Methoden\Generic-Maximum\obj\Debug\Generic_Normalisierung.csproj.CoreCompileInputs.cache
+H:\#02_booksOwn\01-01_Csharp2017_Grundlagen_Praxis&Rezepte_De (20210321)\CSharp_Projekte\10_Methoden\Generic-Maximum\obj\Debug\Generic-Maximum.exe
+H:\#02_booksOwn\01-01_Csharp2017_Grundlagen_Praxis&Rezepte_De (20210321)\CSharp_Projekte\10_Methoden\Generic-Maximum\obj\Debug\Generic-Maximum.pdb
+H:\#02_booksOwn\01-01_Csharp2017_Grundlagen_Praxis&Rezepte_De (20210321)\CSharp_Projekte\10_Methoden\Generic-Maximum\obj\Debug\Generic_Normalization.FormGeneric_Normalisierung.resources
