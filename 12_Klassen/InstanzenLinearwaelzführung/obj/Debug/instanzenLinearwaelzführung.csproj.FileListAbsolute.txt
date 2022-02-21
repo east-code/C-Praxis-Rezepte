@@ -1,0 +1,16 @@
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\InstanzenLinearwaelzführung\bin\Debug\Linearwaelzführung.exe.config
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\InstanzenLinearwaelzführung\obj\Debug\Linearwaelzführung.exe
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\InstanzenLinearwaelzführung\obj\Debug\Linearwaelzführung.pdb
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\InstanzenLinearwaelzführung\bin\Debug\Linearwaelzführung.exe
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\InstanzenLinearwaelzführung\bin\Debug\Linearwaelzführung.pdb
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\InstanzenLinearwaelzführung\obj\Debug\Linearwaelzführung.Form_LWF.resources
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\InstanzenLinearwaelzführung\obj\Debug\Linearwaelzführung.Properties.Resources.resources
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\InstanzenLinearwaelzführung\obj\Debug\instanzenLinearwaelzführung.csproj.GenerateResource.Cache
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\InstanzenLinearwaelzführung\bin\Debug\Linearwaelzführung.exe.config
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\InstanzenLinearwaelzführung\obj\Debug\Linearwaelzführung.exe
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\InstanzenLinearwaelzführung\obj\Debug\Linearwaelzführung.pdb
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\InstanzenLinearwaelzführung\bin\Debug\Linearwaelzführung.exe
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\InstanzenLinearwaelzführung\bin\Debug\Linearwaelzführung.pdb
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\InstanzenLinearwaelzführung\obj\Debug\Linearwaelzführung.Form_LWF.resources
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\InstanzenLinearwaelzführung\obj\Debug\Linearwaelzführung.Properties.Resources.resources
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\InstanzenLinearwaelzführung\obj\Debug\instanzenLinearwaelzführung.csproj.GenerateResource.Cache
