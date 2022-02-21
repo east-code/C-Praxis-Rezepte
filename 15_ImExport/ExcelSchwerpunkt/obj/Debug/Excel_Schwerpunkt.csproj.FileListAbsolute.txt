@@ -1,0 +1,14 @@
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Excel_Schwerpunkt\bin\Debug\Excel_Schwerpunkt.exe.config
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Excel_Schwerpunkt\bin\Debug\Excel_Schwerpunkt.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Excel_Schwerpunkt\bin\Debug\Excel_Schwerpunkt.pdb
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Excel_Schwerpunkt\obj\Debug\Excel_Schwerpunkt.csprojResolveAssemblyReference.cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Excel_Schwerpunkt\obj\Debug\Excel_Schwerpunkt.Form_Schwerpunkt.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Excel_Schwerpunkt\obj\Debug\Excel_Schwerpunkt.Properties.Resources.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Excel_Schwerpunkt\obj\Debug\Excel_Schwerpunkt.csproj.GenerateResource.Cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Excel_Schwerpunkt\obj\Debug\Excel_Schwerpunkt.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Excel_Schwerpunkt\obj\Debug\Excel_Schwerpunkt.pdb
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Excel_Schwerpunkt\obj\Debug\Excel_Schwerpunkt.csproj.ResolveComReference.cache
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\13_ImExport\ExcelSchwerpunkt\bin\Debug\Excel_Schwerpunkt.exe.config
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\13_ImExport\ExcelSchwerpunkt\obj\Debug\Excel_Schwerpunkt.csproj.ResolveComReference.cache
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\13_ImExport\ExcelSchwerpunkt\obj\Debug\Excel_Schwerpunkt.exe
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\13_ImExport\ExcelSchwerpunkt\obj\Debug\Excel_Schwerpunkt.pdb
