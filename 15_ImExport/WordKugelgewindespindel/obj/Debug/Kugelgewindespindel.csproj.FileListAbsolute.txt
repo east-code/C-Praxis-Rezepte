@@ -1,0 +1,11 @@
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Kugelgewindespindel\bin\Debug\Kugelgewindespindel.exe.config
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Kugelgewindespindel\bin\Debug\Kugelgewindespindel.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Kugelgewindespindel\bin\Debug\Kugelgewindespindel.pdb
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Kugelgewindespindel\obj\Debug\Kugelgewindespindel.Properties.Resources.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Kugelgewindespindel\obj\Debug\Kugelgewindespindel.csproj.GenerateResource.Cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Kugelgewindespindel\obj\Debug\Kugelgewindespindel.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Kugelgewindespindel\obj\Debug\Kugelgewindespindel.pdb
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Kugelgewindespindel\obj\Debug\Kugelgewindespindel.Form_KGS.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Kugelgewindespindel\obj\Debug\Kugelgewindespindel.csprojResolveAssemblyReference.cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Kugelgewindespindel\obj\Debug\Kugelgewindespindel.csproj.ResolveComReference.cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\13_ImExport\ImExport\Kugelgewindespindel\bin\Debug\Resources\KugelumlaufspindelEinbauarten.png
