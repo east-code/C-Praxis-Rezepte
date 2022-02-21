@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dictionaryMaschinenbau", "DictionaryMaschinenbau\dictionaryMaschinenbau.csproj", "{32EA02DF-76B9-4757-A592-32E0EC11D6DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listeWerkstoffe", "ListeWerkstoffe\listeWerkstoffe.csproj", "{FB7B7D91-E130-494F-A039-7A89DC044FF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structurListeWerkstoffverwaltung", "StrukturListeWerkstoffverwaltung\structurListeWerkstoffverwaltung.csproj", "{D9DE962C-B85C-41CB-BCD1-E882218135F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32EA02DF-76B9-4757-A592-32E0EC11D6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32EA02DF-76B9-4757-A592-32E0EC11D6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32EA02DF-76B9-4757-A592-32E0EC11D6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32EA02DF-76B9-4757-A592-32E0EC11D6DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7B7D91-E130-494F-A039-7A89DC044FF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7B7D91-E130-494F-A039-7A89DC044FF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7B7D91-E130-494F-A039-7A89DC044FF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7B7D91-E130-494F-A039-7A89DC044FF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9DE962C-B85C-41CB-BCD1-E882218135F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9DE962C-B85C-41CB-BCD1-E882218135F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9DE962C-B85C-41CB-BCD1-E882218135F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9DE962C-B85C-41CB-BCD1-E882218135F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\69_C#V13\C#PraxisFuerMaschinenbau\11_Auflistungen\Dictionary_Wörterbuch\Maschinenbau\Maschinenbau\bin\Debug\Maschinenbau.exe.config
+C:\69_C#V13\C#PraxisFuerMaschinenbau\11_Auflistungen\Dictionary_Wörterbuch\Maschinenbau\Maschinenbau\bin\Debug\Maschinenbau.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\11_Auflistungen\Dictionary_Wörterbuch\Maschinenbau\Maschinenbau\bin\Debug\Maschinenbau.pdb
+C:\69_C#V13\C#PraxisFuerMaschinenbau\11_Auflistungen\Dictionary_Wörterbuch\Maschinenbau\Maschinenbau\obj\Debug\Maschinenbau.csprojResolveAssemblyReference.cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\11_Auflistungen\Dictionary_Wörterbuch\Maschinenbau\Maschinenbau\obj\Debug\Maschinenbau.Form_wörterbuch.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\11_Auflistungen\Dictionary_Wörterbuch\Maschinenbau\Maschinenbau\obj\Debug\Maschinenbau.Properties.Resources.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\11_Auflistungen\Dictionary_Wörterbuch\Maschinenbau\Maschinenbau\obj\Debug\Maschinenbau.csproj.GenerateResource.Cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\11_Auflistungen\Dictionary_Wörterbuch\Maschinenbau\Maschinenbau\obj\Debug\Maschinenbau.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\11_Auflistungen\Dictionary_Wörterbuch\Maschinenbau\Maschinenbau\obj\Debug\Maschinenbau.pdb
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\11_Auflistungen\DictionaryMaschinenbau\bin\Debug\Maschinenbau.exe.config
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\11_Auflistungen\DictionaryMaschinenbau\obj\Debug\Maschinenbau.exe
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\11_Auflistungen\DictionaryMaschinenbau\obj\Debug\Maschinenbau.pdb
