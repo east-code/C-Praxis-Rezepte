@@ -1,0 +1,12 @@
+C:\69_C#V13\C#PraxisFuerMaschinenbau\07_Ausnahmebehandlung\DivisionDurch0\exeptionDivision\exeptionDivision\bin\Debug\exeptionDivision.exe.config
+C:\69_C#V13\C#PraxisFuerMaschinenbau\07_Ausnahmebehandlung\DivisionDurch0\exeptionDivision\exeptionDivision\bin\Debug\exeptionDivision.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\07_Ausnahmebehandlung\DivisionDurch0\exeptionDivision\exeptionDivision\bin\Debug\exeptionDivision.pdb
+C:\69_C#V13\C#PraxisFuerMaschinenbau\07_Ausnahmebehandlung\DivisionDurch0\exeptionDivision\exeptionDivision\obj\Debug\exeptionDivision.csprojResolveAssemblyReference.cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\07_Ausnahmebehandlung\DivisionDurch0\exeptionDivision\exeptionDivision\obj\Debug\exeptionDivision.Form_Division.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\07_Ausnahmebehandlung\DivisionDurch0\exeptionDivision\exeptionDivision\obj\Debug\exeptionDivision.Properties.Resources.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\07_Ausnahmebehandlung\DivisionDurch0\exeptionDivision\exeptionDivision\obj\Debug\exeptionDivision.csproj.GenerateResource.Cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\07_Ausnahmebehandlung\DivisionDurch0\exeptionDivision\exeptionDivision\obj\Debug\exeptionDivision.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\07_Ausnahmebehandlung\DivisionDurch0\exeptionDivision\exeptionDivision\obj\Debug\exeptionDivision.pdb
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\07_Ausnahmebehandlung\exeptionDivision\bin\Debug\exeptionDivision.exe.config
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\07_Ausnahmebehandlung\exeptionDivision\obj\Debug\exeptionDivision.exe
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\07_Ausnahmebehandlung\exeptionDivision\obj\Debug\exeptionDivision.pdb
