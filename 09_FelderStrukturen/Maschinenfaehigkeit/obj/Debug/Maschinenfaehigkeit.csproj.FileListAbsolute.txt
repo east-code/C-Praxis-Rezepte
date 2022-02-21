@@ -1,0 +1,12 @@
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Datenstrukturen\felder_Maschinenfaehigkeit\Maschinenfaehigkeit\Maschinenfaehigkeit\bin\Debug\Maschinenfaehigkeit.exe.config
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Datenstrukturen\felder_Maschinenfaehigkeit\Maschinenfaehigkeit\Maschinenfaehigkeit\bin\Debug\Maschinenfaehigkeit.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Datenstrukturen\felder_Maschinenfaehigkeit\Maschinenfaehigkeit\Maschinenfaehigkeit\bin\Debug\Maschinenfaehigkeit.pdb
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Datenstrukturen\felder_Maschinenfaehigkeit\Maschinenfaehigkeit\Maschinenfaehigkeit\obj\Debug\Maschinenfaehigkeit.csprojResolveAssemblyReference.cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Datenstrukturen\felder_Maschinenfaehigkeit\Maschinenfaehigkeit\Maschinenfaehigkeit\obj\Debug\Maschinenfaehigkeit.Form_Cmk.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Datenstrukturen\felder_Maschinenfaehigkeit\Maschinenfaehigkeit\Maschinenfaehigkeit\obj\Debug\Maschinenfaehigkeit.Properties.Resources.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Datenstrukturen\felder_Maschinenfaehigkeit\Maschinenfaehigkeit\Maschinenfaehigkeit\obj\Debug\Maschinenfaehigkeit.csproj.GenerateResource.Cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Datenstrukturen\felder_Maschinenfaehigkeit\Maschinenfaehigkeit\Maschinenfaehigkeit\obj\Debug\Maschinenfaehigkeit.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Datenstrukturen\felder_Maschinenfaehigkeit\Maschinenfaehigkeit\Maschinenfaehigkeit\obj\Debug\Maschinenfaehigkeit.pdb
+C:\69_C#V13\C#PraxisFuerMaschinenbau\09_Felder und Strukturen\felder_Maschinenfaehigkeit\Maschinenfaehigkeit\Maschinenfaehigkeit\bin\Debug\Maschinenfaehigkeit.exe.config
+C:\69_C#V13\C#PraxisFuerMaschinenbau\09_Felder und Strukturen\felder_Maschinenfaehigkeit\Maschinenfaehigkeit\Maschinenfaehigkeit\obj\Debug\Maschinenfaehigkeit.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\09_Felder und Strukturen\felder_Maschinenfaehigkeit\Maschinenfaehigkeit\Maschinenfaehigkeit\obj\Debug\Maschinenfaehigkeit.pdb
