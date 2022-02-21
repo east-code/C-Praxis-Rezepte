@@ -1,0 +1,3 @@
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\KlassenObjekte\Linearwaelzfuehrung\Linearwaelzführung\bin\Debug\Linearwaelzführung.exe.config
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\KlassenObjekte\Linearwaelzfuehrung\Linearwaelzführung\obj\Debug\Linearwaelzführung.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\KlassenObjekte\Linearwaelzfuehrung\Linearwaelzführung\obj\Debug\Linearwaelzführung.pdb
