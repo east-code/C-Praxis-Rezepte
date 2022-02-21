@@ -1,0 +1,8 @@
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\KlassenObjekteInterface\Linearwaelzfuehrung\Linearwaelzführung\bin\Debug\Linearwaelzführung.exe.config
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\KlassenObjekteInterface\Linearwaelzfuehrung\Linearwaelzführung\bin\Debug\Linearwaelzführung.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\KlassenObjekteInterface\Linearwaelzfuehrung\Linearwaelzführung\bin\Debug\Linearwaelzführung.pdb
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\KlassenObjekteInterface\Linearwaelzfuehrung\Linearwaelzführung\obj\Debug\Linearwaelzfuehrung.csproj.GenerateResource.Cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\KlassenObjekteInterface\Linearwaelzfuehrung\Linearwaelzführung\obj\Debug\Linearwaelzführung.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\KlassenObjekteInterface\Linearwaelzfuehrung\Linearwaelzführung\obj\Debug\Linearwaelzführung.pdb
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\KlassenObjekteInterface\Linearwaelzfuehrung\Linearwaelzführung\obj\Debug\Linearwaelzfuehrung.Form_LWF.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\KlassenObjekteInterface\Linearwaelzfuehrung\Linearwaelzführung\obj\Debug\Linearwaelzfuehrung.Properties.Resources.resources
