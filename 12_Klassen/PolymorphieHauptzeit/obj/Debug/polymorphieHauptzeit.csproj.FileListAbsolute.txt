@@ -1,0 +1,17 @@
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\PolymorphieHauptzeit\bin\Debug\Hauptzeit.exe.config
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\PolymorphieHauptzeit\obj\Debug\Hauptzeit.exe
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\PolymorphieHauptzeit\obj\Debug\Hauptzeit.pdb
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\PolymorphieHauptzeit\bin\Debug\Hauptzeit.exe
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\PolymorphieHauptzeit\bin\Debug\Hauptzeit.pdb
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\PolymorphieHauptzeit\obj\Debug\Hauptzeit.Form_Hauptzeit.resources
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\PolymorphieHauptzeit\obj\Debug\Hauptzeit.Properties.Resources.resources
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\PolymorphieHauptzeit\obj\Debug\polymorphieHauptzeit.csproj.GenerateResource.Cache
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\PolymorphieHauptzeit\bin\Debug\Hauptzeit.exe.config
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\PolymorphieHauptzeit\obj\Debug\Hauptzeit.exe
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\PolymorphieHauptzeit\obj\Debug\Hauptzeit.pdb
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\PolymorphieHauptzeit\bin\Debug\Hauptzeit.exe
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\PolymorphieHauptzeit\bin\Debug\Hauptzeit.pdb
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\PolymorphieHauptzeit\obj\Debug\polymorphieHauptzeit.csprojResolveAssemblyReference.cache
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\PolymorphieHauptzeit\obj\Debug\Hauptzeit.Form_Hauptzeit.resources
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\PolymorphieHauptzeit\obj\Debug\Hauptzeit.Properties.Resources.resources
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\PolymorphieHauptzeit\obj\Debug\polymorphieHauptzeit.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Vererbung\Polymorphie\Hauptzeit\bin\Debug\Hauptzeit.exe.config
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Vererbung\Polymorphie\Hauptzeit\obj\Debug\Hauptzeit.csprojResolveAssemblyReference.cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Vererbung\Polymorphie\Hauptzeit\obj\Debug\Hauptzeit.Form_Hauptzeit.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Vererbung\Polymorphie\Hauptzeit\obj\Debug\Hauptzeit.Properties.Resources.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Vererbung\Polymorphie\Hauptzeit\obj\Debug\Hauptzeit.csproj.GenerateResource.Cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Vererbung\Polymorphie\Hauptzeit\bin\Debug\Hauptzeit.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Vererbung\Polymorphie\Hauptzeit\bin\Debug\Hauptzeit.pdb
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Vererbung\Polymorphie\Hauptzeit\obj\Debug\Hauptzeit.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Vererbung\Polymorphie\Hauptzeit\obj\Debug\Hauptzeit.pdb
