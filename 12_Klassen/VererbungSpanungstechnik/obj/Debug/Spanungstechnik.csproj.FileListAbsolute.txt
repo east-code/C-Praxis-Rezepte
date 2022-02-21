@@ -1,0 +1,9 @@
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Vererbung\Spanungstechnik\Spanungstechnik\bin\Debug\Spanungstechnik.exe.config
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Vererbung\Spanungstechnik\Spanungstechnik\bin\Debug\Spanungstechnik.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Vererbung\Spanungstechnik\Spanungstechnik\bin\Debug\Spanungstechnik.pdb
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Vererbung\Spanungstechnik\Spanungstechnik\obj\Debug\Spanungstechnik.Form_Spanung.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Vererbung\Spanungstechnik\Spanungstechnik\obj\Debug\Spanungstechnik.Properties.Resources.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Vererbung\Spanungstechnik\Spanungstechnik\obj\Debug\Spanungstechnik.csproj.GenerateResource.Cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Vererbung\Spanungstechnik\Spanungstechnik\obj\Debug\Spanungstechnik.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Vererbung\Spanungstechnik\Spanungstechnik\obj\Debug\Spanungstechnik.pdb
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\Vererbung\Spanungstechnik\Spanungstechnik\obj\Debug\Spanungstechnik.csprojResolveAssemblyReference.cache
