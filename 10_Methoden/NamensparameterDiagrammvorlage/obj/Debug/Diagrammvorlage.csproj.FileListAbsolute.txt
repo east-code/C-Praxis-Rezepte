@@ -1,0 +1,36 @@
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Methoden\methoden_benannteParameter_Diagramm\Diagrammvorlage\Diagrammvorlage\bin\Debug\Diagrammvorlage.exe.config
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Methoden\methoden_benannteParameter_Diagramm\Diagrammvorlage\Diagrammvorlage\obj\Debug\Diagrammvorlage.csprojResolveAssemblyReference.cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Methoden\methoden_benannteParameter_Diagramm\Diagrammvorlage\Diagrammvorlage\obj\Debug\Diagrammvorlage.Form_Diagrammvorlage.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Methoden\methoden_benannteParameter_Diagramm\Diagrammvorlage\Diagrammvorlage\obj\Debug\Diagrammvorlage.Properties.Resources.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Methoden\methoden_benannteParameter_Diagramm\Diagrammvorlage\Diagrammvorlage\obj\Debug\Diagrammvorlage.csproj.GenerateResource.Cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Methoden\methoden_benannteParameter_Diagramm\Diagrammvorlage\Diagrammvorlage\bin\Debug\Diagrammvorlage.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Methoden\methoden_benannteParameter_Diagramm\Diagrammvorlage\Diagrammvorlage\bin\Debug\Diagrammvorlage.pdb
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Methoden\methoden_benannteParameter_Diagramm\Diagrammvorlage\Diagrammvorlage\obj\Debug\Diagrammvorlage.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Methoden\methoden_benannteParameter_Diagramm\Diagrammvorlage\Diagrammvorlage\obj\Debug\Diagrammvorlage.pdb
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\10_Methoden\NamensparameterDiagrammvorlage\bin\Debug\Diagrammvorlage.exe.config
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\10_Methoden\NamensparameterDiagrammvorlage\obj\Debug\Diagrammvorlage.exe
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\10_Methoden\NamensparameterDiagrammvorlage\obj\Debug\Diagrammvorlage.pdb
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\10_Methoden\NamensparameterDiagrammvorlage\bin\Debug\Diagrammvorlage.exe
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\10_Methoden\NamensparameterDiagrammvorlage\bin\Debug\Diagrammvorlage.pdb
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\10_Methoden\NamensparameterDiagrammvorlage\obj\Debug\Diagrammvorlage.csprojResolveAssemblyReference.cache
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\10_Methoden\NamensparameterDiagrammvorlage\obj\Debug\Diagrammvorlage.Form_Diagrammvorlage.resources
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\10_Methoden\NamensparameterDiagrammvorlage\obj\Debug\Diagrammvorlage.Properties.Resources.resources
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\10_Methoden\NamensparameterDiagrammvorlage\obj\Debug\Diagrammvorlage.csproj.GenerateResource.Cache
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\10_Methoden\NamensparameterDiagrammvorlage\bin\Debug\Diagrammvorlage.exe.config
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\10_Methoden\NamensparameterDiagrammvorlage\obj\Debug\Diagrammvorlage.exe
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\10_Methoden\NamensparameterDiagrammvorlage\obj\Debug\Diagrammvorlage.pdb
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\10_Methoden\NamensparameterDiagrammvorlage\bin\Debug\Diagrammvorlage.exe
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\10_Methoden\NamensparameterDiagrammvorlage\bin\Debug\Diagrammvorlage.pdb
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\10_Methoden\NamensparameterDiagrammvorlage\obj\Debug\Diagrammvorlage.csprojResolveAssemblyReference.cache
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\10_Methoden\NamensparameterDiagrammvorlage\obj\Debug\Diagrammvorlage.Form_Diagrammvorlage.resources
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\10_Methoden\NamensparameterDiagrammvorlage\obj\Debug\Diagrammvorlage.Properties.Resources.resources
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\10_Methoden\NamensparameterDiagrammvorlage\obj\Debug\Diagrammvorlage.csproj.GenerateResource.Cache
+H:\#02_booksOwn\01-01_Csharp2017_Grundlagen_Praxis&Rezepte_De (20210321)\CSharp_Projekte\10_Methoden\NamensparameterDiagrammvorlage\bin\Debug\Diagrammvorlage.exe.config
+H:\#02_booksOwn\01-01_Csharp2017_Grundlagen_Praxis&Rezepte_De (20210321)\CSharp_Projekte\10_Methoden\NamensparameterDiagrammvorlage\bin\Debug\Diagrammvorlage.exe
+H:\#02_booksOwn\01-01_Csharp2017_Grundlagen_Praxis&Rezepte_De (20210321)\CSharp_Projekte\10_Methoden\NamensparameterDiagrammvorlage\bin\Debug\Diagrammvorlage.pdb
+H:\#02_booksOwn\01-01_Csharp2017_Grundlagen_Praxis&Rezepte_De (20210321)\CSharp_Projekte\10_Methoden\NamensparameterDiagrammvorlage\obj\Debug\Diagrammvorlage.Form_Diagrammvorlage.resources
+H:\#02_booksOwn\01-01_Csharp2017_Grundlagen_Praxis&Rezepte_De (20210321)\CSharp_Projekte\10_Methoden\NamensparameterDiagrammvorlage\obj\Debug\Diagrammvorlage.Properties.Resources.resources
+H:\#02_booksOwn\01-01_Csharp2017_Grundlagen_Praxis&Rezepte_De (20210321)\CSharp_Projekte\10_Methoden\NamensparameterDiagrammvorlage\obj\Debug\Diagrammvorlage.csproj.GenerateResource.cache
+H:\#02_booksOwn\01-01_Csharp2017_Grundlagen_Praxis&Rezepte_De (20210321)\CSharp_Projekte\10_Methoden\NamensparameterDiagrammvorlage\obj\Debug\Diagrammvorlage.csproj.CoreCompileInputs.cache
+H:\#02_booksOwn\01-01_Csharp2017_Grundlagen_Praxis&Rezepte_De (20210321)\CSharp_Projekte\10_Methoden\NamensparameterDiagrammvorlage\obj\Debug\Diagrammvorlage.exe
+H:\#02_booksOwn\01-01_Csharp2017_Grundlagen_Praxis&Rezepte_De (20210321)\CSharp_Projekte\10_Methoden\NamensparameterDiagrammvorlage\obj\Debug\Diagrammvorlage.pdb
