@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumVonZahlen", "BeliebigVieleArgumenteMinimumVonZahlen\MinimumVonZahlen.csproj", "{CCEFAE06-5C2D-47EC-934D-EAA853F8CB3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Potenzfunktion", "FunktionPotenzfunktion\Potenzfunktion.csproj", "{15D0239E-F79B-4FC3-BB39-7D1C638F28D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagrammvorlage", "NamensparameterDiagrammvorlage\Diagrammvorlage.csproj", "{C5AE52A0-C634-45D7-9233-86D69141768D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "summeOptional", "OptionaleParameterSumme\summeOptional.csproj", "{840DFB00-FE73-4B86-B65B-A0F7BD08F64B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ohmascherWiderstand", "ProzedurOhmascherWiderstand\ohmascherWiderstand.csproj", "{2880AF40-CFD8-4240-B98E-B811E80741A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UeberladenPotenzfunktion", "UeberladenPotenzfunktion\UeberladenPotenzfunktion.csproj", "{9A412B4C-2A38-432A-9382-7BE81650D2A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic_Normalisierung", "Generic-Maximum\Generic_Normalisierung.csproj", "{818FE569-9ECF-4063-B03C-4969BE280C9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCEFAE06-5C2D-47EC-934D-EAA853F8CB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCEFAE06-5C2D-47EC-934D-EAA853F8CB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCEFAE06-5C2D-47EC-934D-EAA853F8CB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCEFAE06-5C2D-47EC-934D-EAA853F8CB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15D0239E-F79B-4FC3-BB39-7D1C638F28D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15D0239E-F79B-4FC3-BB39-7D1C638F28D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15D0239E-F79B-4FC3-BB39-7D1C638F28D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15D0239E-F79B-4FC3-BB39-7D1C638F28D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5AE52A0-C634-45D7-9233-86D69141768D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AE52A0-C634-45D7-9233-86D69141768D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AE52A0-C634-45D7-9233-86D69141768D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AE52A0-C634-45D7-9233-86D69141768D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{840DFB00-FE73-4B86-B65B-A0F7BD08F64B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840DFB00-FE73-4B86-B65B-A0F7BD08F64B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840DFB00-FE73-4B86-B65B-A0F7BD08F64B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840DFB00-FE73-4B86-B65B-A0F7BD08F64B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2880AF40-CFD8-4240-B98E-B811E80741A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2880AF40-CFD8-4240-B98E-B811E80741A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2880AF40-CFD8-4240-B98E-B811E80741A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2880AF40-CFD8-4240-B98E-B811E80741A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A412B4C-2A38-432A-9382-7BE81650D2A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A412B4C-2A38-432A-9382-7BE81650D2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A412B4C-2A38-432A-9382-7BE81650D2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A412B4C-2A38-432A-9382-7BE81650D2A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{818FE569-9ECF-4063-B03C-4969BE280C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818FE569-9ECF-4063-B03C-4969BE280C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818FE569-9ECF-4063-B03C-4969BE280C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818FE569-9ECF-4063-B03C-4969BE280C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ACA9C5D-5A26-4B59-A0F7-BD1E926BE38B}
+	EndGlobalSection
+EndGlobal

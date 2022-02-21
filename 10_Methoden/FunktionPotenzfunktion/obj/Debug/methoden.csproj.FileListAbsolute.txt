@@ -1,0 +1,12 @@
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Methoden\methoden\methoden\bin\Debug\methoden.exe.config
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Methoden\methoden\methoden\bin\Debug\methoden.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Methoden\methoden\methoden\bin\Debug\methoden.pdb
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Methoden\methoden\methoden\obj\Debug\methoden.csprojResolveAssemblyReference.cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Methoden\methoden\methoden\obj\Debug\methoden.Properties.Resources.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Methoden\methoden\methoden\obj\Debug\methoden.csproj.GenerateResource.Cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Methoden\methoden\methoden\obj\Debug\methoden.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Methoden\methoden\methoden\obj\Debug\methoden.pdb
+C:\69_C#V13\C#PraxisFuerMaschinenbau\08_Methoden\methoden\methoden\obj\Debug\methoden.Form_Funktion.resources
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\10_Methoden\methoden\bin\Debug\methoden.exe.config
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\10_Methoden\methoden\obj\Debug\methoden.exe
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\10_Methoden\methoden\obj\Debug\methoden.pdb
