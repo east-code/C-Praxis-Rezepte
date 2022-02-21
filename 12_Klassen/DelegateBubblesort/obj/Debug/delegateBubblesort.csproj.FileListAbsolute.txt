@@ -1,0 +1,16 @@
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\DelegateBubblesort\bin\Debug\Bubblesort.exe.config
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\DelegateBubblesort\obj\Debug\Bubblesort.exe
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\DelegateBubblesort\obj\Debug\Bubblesort.pdb
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\DelegateBubblesort\bin\Debug\Bubblesort.exe
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\DelegateBubblesort\bin\Debug\Bubblesort.pdb
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\DelegateBubblesort\obj\Debug\Bubblesort.Form_Bubblesort.resources
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\DelegateBubblesort\obj\Debug\Bubblesort.Properties.Resources.resources
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\ProjekteZumSkript\12_Klassen\DelegateBubblesort\obj\Debug\delegateBubblesort.csproj.GenerateResource.Cache
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\DelegateBubblesort\bin\Debug\Bubblesort.exe.config
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\DelegateBubblesort\obj\Debug\Bubblesort.exe
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\DelegateBubblesort\obj\Debug\Bubblesort.pdb
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\DelegateBubblesort\bin\Debug\Bubblesort.exe
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\DelegateBubblesort\bin\Debug\Bubblesort.pdb
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\DelegateBubblesort\obj\Debug\Bubblesort.Form_Bubblesort.resources
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\DelegateBubblesort\obj\Debug\Bubblesort.Properties.Resources.resources
+C:\Users\Golem\Desktop\CsharpBookstores\ProjekteZumSkript\12_Klassen\DelegateBubblesort\obj\Debug\delegateBubblesort.csproj.GenerateResource.Cache

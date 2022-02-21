@@ -1,0 +1,12 @@
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\MethodenzeigerBubblesort\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe.config
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\MethodenzeigerBubblesort\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\MethodenzeigerBubblesort\Bubblesort\Bubblesort\bin\Debug\Bubblesort.pdb
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\MethodenzeigerBubblesort\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csprojResolveAssemblyReference.cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\MethodenzeigerBubblesort\Bubblesort\Bubblesort\obj\Debug\Bubblesort.Form_Bubblesort.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\MethodenzeigerBubblesort\Bubblesort\Bubblesort\obj\Debug\Bubblesort.Properties.Resources.resources
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\MethodenzeigerBubblesort\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csproj.GenerateResource.Cache
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\MethodenzeigerBubblesort\Bubblesort\Bubblesort\obj\Debug\Bubblesort.exe
+C:\69_C#V13\C#PraxisFuerMaschinenbau\12_Klassen\MethodenzeigerBubblesort\Bubblesort\Bubblesort\obj\Debug\Bubblesort.pdb
+C:\69_C#V13\1-01_C#PraxisFuerMaschinenbau\12_Klassen\MethodenzeigerBubblesort\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe.config
+C:\69_C#V13\1-01_C#PraxisFuerMaschinenbau\12_Klassen\MethodenzeigerBubblesort\Bubblesort\Bubblesort\obj\Debug\Bubblesort.exe
+C:\69_C#V13\1-01_C#PraxisFuerMaschinenbau\12_Klassen\MethodenzeigerBubblesort\Bubblesort\Bubblesort\obj\Debug\Bubblesort.pdb
