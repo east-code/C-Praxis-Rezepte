@@ -1,0 +1,10 @@
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\12_Klassen\BibliothekSpanen\bin\Debug\BibliothekSpanen.exe.config
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\12_Klassen\BibliothekSpanen\bin\Debug\BibliothekSpanen.exe
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\12_Klassen\BibliothekSpanen\bin\Debug\BibliothekSpanen.pdb
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\12_Klassen\BibliothekSpanen\obj\Debug\BibliothekSpanen.csprojResolveAssemblyReference.cache
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\12_Klassen\BibliothekSpanen\obj\Debug\SpanenBohren.FormBohren.resources
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\12_Klassen\BibliothekSpanen\obj\Debug\SpanenBohren.Properties.Resources.resources
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\12_Klassen\BibliothekSpanen\obj\Debug\BibliothekSpanen.csproj.GenerateResource.Cache
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\12_Klassen\BibliothekSpanen\obj\Debug\BibliothekSpanen.exe
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\12_Klassen\BibliothekSpanen\obj\Debug\BibliothekSpanen.pdb
+C:\69_CSharpV13\1-01_CSharpPraxisFuerMaschinenbau\SkriptProjekte\12_Klassen\BibliothekSpanen\bin\Debug\Spanungstechnik.BasisSpanen.dll
